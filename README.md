@@ -15,6 +15,7 @@ Output:
      2. Segment table,
      3. Graphical or visual representation of physical address space.
      
+     
 Program platform : NetBeans, Version: 8.1
 Programming Language : Java
      
